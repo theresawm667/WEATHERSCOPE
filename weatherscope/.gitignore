@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+models/*.joblib
+reports/metrics.json
+reports/test_predictions.csv
